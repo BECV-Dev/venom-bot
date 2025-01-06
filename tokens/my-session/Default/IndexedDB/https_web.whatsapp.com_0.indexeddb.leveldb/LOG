@@ -1,4 +1,0 @@
-2025/01/05-01:52:18.697 8403 Reusing MANIFEST /Users/enriquecastellanos/Documents/NodeJS/venom-bot-vercel/tokens/my-session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/01/05-01:52:18.697 8403 Recovering log #282
-2025/01/05-01:52:18.701 8403 Reusing old log /Users/enriquecastellanos/Documents/NodeJS/venom-bot-vercel/tokens/my-session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000282.log 
-2025/01/05-01:52:19.920 9103 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
